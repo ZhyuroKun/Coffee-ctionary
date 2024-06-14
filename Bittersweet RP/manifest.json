@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Addonpack That Brings Survival Into The Bitter Difficulty Filled With Hardcorous Yet Realistic Mechanics, Challenges & RPG-like Elements\nWhile Keeping The Vanilla Feels But Also Making It Better With Plenty Of Sweet Features!",
+    "name": "Bittersweet RP",
+    "uuid": "37d98e42-8256-4c0a-977c-3c691632effa",
+    "version": [
+      4,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "description": "Addonpack That Brings Survival Into The Bitter Difficulty Filled With Hardcorous Yet Realistic Mechanics, Challenges & RPG-like Elements\nWhile Keeping The Vanilla Feels But Also Making It Better With Plenty Of Sweet Features!",
+      "type": "resources",
+      "uuid": "9f59c0d6-f788-4a6d-ab7e-2610e63e3eb4",
+      "version": [
+        4,
+        0,
+        0
+      ]
+    }
+  ]
+}
